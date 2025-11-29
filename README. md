@@ -1,0 +1,13 @@
+Este repositorio contiene un temario completo para estudiar Python desde nivel básico hasta avanzado.
+
+Cada tema incluye:
+- Conceptos explicados de forma clara
+- Ejemplos prácticos en código
+- Ejercicios sugeridos
+
+Estructura:
+- `basico/` → Fundamentos del lenguaje
+- `intermedio/` → Módulos, archivos, excepciones
+- `avanzado/` → POO, decoradores, regex, Tkinter
+
+Este proyecto funciona como guía de estudio y como portafolio en GitHub.
